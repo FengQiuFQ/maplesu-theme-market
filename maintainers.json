@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "entries": {
+    "maplesu.comic": {
+      "maintainers": [],
+      "origin": "",
+      "license": "",
+      "evidence": [],
+      "status": "pending",
+      "notes": "现有插画的原作与分发条件待核清；暂不进入公开发行审核。"
+    },
+    "maplesu.default": {
+      "maintainers": [
+        "FengQiuFQ"
+      ],
+      "origin": "MapleSU default settings and generated preview; see provenance record",
+      "license": "GPL-3.0",
+      "evidence": [
+        "provenance/maplesu.default/8c8f61cf1a9cac26330e249eed60a4946b00cf7cb6395a850e6a9dc25243ea0c.json"
+      ],
+      "status": "ready"
+    }
+  }
+}

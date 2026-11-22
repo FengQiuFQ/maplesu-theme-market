@@ -1,0 +1,8 @@
+{
+  "id": "maplesu.default",
+  "version": "1",
+  "sha256": "8c8f61cf1a9cac26330e249eed60a4946b00cf7cb6395a850e6a9dc25243ea0c",
+  "origin": "MapleSU default theme settings; generated checkmark preview",
+  "license": "GPL-3.0",
+  "package": "packages/maplesu.default/1/8c8f61cf1a9cac26330e249eed60a4946b00cf7cb6395a850e6a9dc25243ea0c.fpt"
+}

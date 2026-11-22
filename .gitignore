@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.part
+_site/
+dist/
+.private/
+*.pem
+*.key
+*.jks
+*.keystore
+.env
+.env.*

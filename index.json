@@ -1,0 +1,28 @@
+[
+  {
+    "id": "maplesu.comic",
+    "name": "MapleSU Comic",
+    "author": "MapleSU",
+    "version": "1",
+    "description": "MapleSU 原有动漫卡面，首页排版与设计语言由用户选择。",
+    "type": "phone",
+    "source": "official",
+    "preview_url": "previews/maplesu.comic/9564db0f4c5344d75b399865f918cc9800dd0c7e695c9ecaeef0f1655d60c18d.jpg",
+    "download_url": "packages/maplesu.comic/1/316aca1d46ca33e8f298253cb080ff1a59c2ad6ba6bc24e3ba0268dc3aabd3a2.fpt",
+    "download_sha256": "316aca1d46ca33e8f298253cb080ff1a59c2ad6ba6bc24e3ba0268dc3aabd3a2",
+    "download_size": 217600
+  },
+  {
+    "id": "maplesu.default",
+    "name": "MapleSU Default",
+    "author": "MapleSU",
+    "version": "1",
+    "description": "MapleSU 默认配色，保留原有首页排版与设计语言。",
+    "type": "phone",
+    "source": "official",
+    "preview_url": "previews/maplesu.default/ee8a4dda5397b18a3946db9d1f1242287dc00ec258c19d6a9bb625b9ba63b4bd.jpg",
+    "download_url": "packages/maplesu.default/1/8c8f61cf1a9cac26330e249eed60a4946b00cf7cb6395a850e6a9dc25243ea0c.fpt",
+    "download_sha256": "8c8f61cf1a9cac26330e249eed60a4946b00cf7cb6395a850e6a9dc25243ea0c",
+    "download_size": 496
+  }
+]

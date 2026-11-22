@@ -1,18 +1,5 @@
 [
   {
-    "id": "maplesu.comic",
-    "name": "MapleSU Comic",
-    "author": "MapleSU",
-    "version": "1",
-    "description": "MapleSU 原有动漫卡面，首页排版与设计语言由用户选择。",
-    "type": "phone",
-    "source": "official",
-    "preview_url": "previews/maplesu.comic/9564db0f4c5344d75b399865f918cc9800dd0c7e695c9ecaeef0f1655d60c18d.jpg",
-    "download_url": "packages/maplesu.comic/1/316aca1d46ca33e8f298253cb080ff1a59c2ad6ba6bc24e3ba0268dc3aabd3a2.fpt",
-    "download_sha256": "316aca1d46ca33e8f298253cb080ff1a59c2ad6ba6bc24e3ba0268dc3aabd3a2",
-    "download_size": 217600
-  },
-  {
     "id": "maplesu.default",
     "name": "MapleSU Default",
     "author": "MapleSU",

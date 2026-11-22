@@ -1,14 +1,6 @@
 {
   "schema_version": 1,
   "entries": {
-    "maplesu.comic": {
-      "maintainers": [],
-      "origin": "",
-      "license": "",
-      "evidence": [],
-      "status": "pending",
-      "notes": "现有插画的原作与分发条件待核清；暂不进入公开发行审核。"
-    },
     "maplesu.default": {
       "maintainers": [
         "FengQiuFQ"

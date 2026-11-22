@@ -1,8 +1,0 @@
-{
-  "id": "maplesu.comic",
-  "version": "1",
-  "sha256": "316aca1d46ca33e8f298253cb080ff1a59c2ad6ba6bc24e3ba0268dc3aabd3a2",
-  "origin": "manager/src/main/res/drawable-nodpi/art_default.jpg (existing MapleSU artwork)",
-  "license": "Existing MapleSU asset terms; original source retained",
-  "package": "packages/maplesu.comic/1/316aca1d46ca33e8f298253cb080ff1a59c2ad6ba6bc24e3ba0268dc3aabd3a2.fpt"
-}
